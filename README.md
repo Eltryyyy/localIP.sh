@@ -1,7 +1,9 @@
 # localIP.sh
 a simple script to grab and spit out your local IP
 
-make the script executable with chmod +x localIP.sh
-then run mv localIP.sh /usr/bin
+(you might have to chmod +x install.sh)
 
-I plan to automate these steps in the future.
+either git clone or download the repo
+cd into directory
+run ./install.sh
+you can now run localIP.sh
